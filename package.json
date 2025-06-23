@@ -1,0 +1,15 @@
+{
+  "name": "pure-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+		"start": "ts-node 08-dom-types/01-dom-types.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
