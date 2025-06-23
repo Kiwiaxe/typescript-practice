@@ -4,12 +4,15 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-		"start": "ts-node 08-dom-types/01-dom-types.ts"
+    "start": "ts-node 03-Enums.ts"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
   }
 }
