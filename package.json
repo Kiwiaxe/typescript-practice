@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node 03-Enums.ts"
+    "start": "ts-node 02-function-interface/01-function-types.ts"
   },
   "author": "",
   "license": "ISC",
