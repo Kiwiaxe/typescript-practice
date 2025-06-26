@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node 02-function-interface/01-function-types.ts"
+    "start": "ts-node 04-generics/04-high-order-generics.ts"
   },
   "author": "",
   "license": "ISC",
