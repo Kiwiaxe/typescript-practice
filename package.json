@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node 04-generics/04-high-order-generics.ts"
+    "start": "ts-node 05-advanced-type/04-function-overload.ts"
   },
   "author": "",
   "license": "ISC",
